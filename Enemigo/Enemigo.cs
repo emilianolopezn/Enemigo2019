@@ -8,6 +8,7 @@ namespace Enemigo
 {
     class Enemigo
     {
+        //Comentarios
         public int PosicionX { get; set; }
         public int PosicionY { get; set; }
 
